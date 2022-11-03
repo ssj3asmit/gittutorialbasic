@@ -20,3 +20,5 @@ Added for conflicts - from vs code
 
 conflict added - from ui
 >>>>>>> c87658df3fe8b5a86d07f539c0e1c049b8c0f277
+
+conflict added - from user
